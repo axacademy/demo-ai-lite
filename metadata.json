@@ -1,0 +1,5 @@
+{
+  "name": "Copy of [Demo]AI리터러시 역량 진단",
+  "description": "An application to diagnose individual AI literacy competencies required in the era of AI transformation, providing detailed analysis and visual reports using Google's Gemini AI.",
+  "requestFramePermissions": []
+}
